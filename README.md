@@ -1,14 +1,7 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3I3Mml5eWh0Zm40NGo4ODdhNjAyMTZncG0zNDBjZXpheWsydjljbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ahVlmHJzTMxygUxUou/giphy.gif" width="200"/>
-  
-  Hola, soy Miqueas Quintanilla Ventura 👋
-  
-</div>
 
+# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3I3Mml5eWh0Zm40NGo4ODdhNjAyMTZncG0zNDBjZXpheWsydjljbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ahVlmHJzTMxygUxUou/giphy.gif" width="50"/> Hola, soy Miqueas Quintanilla Ventura 👋
 
-# Hola, soy Miqueas Quintanilla Ventura 👋
-
-
+![Banner de Miqueas](BANNER LINKEDIN.png)
 
 Bienvenido a mi rincón en GitHub, donde la magia del backend, la ciencia de datos y el desarrollo de software se encuentran! 🚀
 
