@@ -1,7 +1,7 @@
 
-# <div 
- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3I3Mml5eWh0Zm40NGo4ODdhNjAyMTZncG0zNDBjZXpheWsydjljbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ahVlmHJzTMxygUxUou/giphy.gif" width="50"/> WELCOME 👋
-/>
+<div id="header" align="center">
+ <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3I3Mml5eWh0Zm40NGo4ODdhNjAyMTZncG0zNDBjZXpheWsydjljbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ahVlmHJzTMxygUxUou/giphy.gif" width="100"/> 
+</div>
 
 ![Banner de Miqueas](github-header.png)
 
@@ -32,9 +32,10 @@ Soy un apasionado desarrollador de backend con una fuerte inclinación hacia la 
 
 ## 📫 Cómo encontrarme
 
-- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/[TuLinkedIn])
-- **Blog Personal:** [MiBlog.com](http://miblog.com)
-- **Correo:** [tucorreo@example.com](mailto:tucorreo@example.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mqv/)
+
+![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
+
 
 ## 💡 Citas favoritas
 
