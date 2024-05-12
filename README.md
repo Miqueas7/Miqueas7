@@ -1,5 +1,7 @@
 
-# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3I3Mml5eWh0Zm40NGo4ODdhNjAyMTZncG0zNDBjZXpheWsydjljbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ahVlmHJzTMxygUxUou/giphy.gif" width="50"/> WELCOME 👋
+# <div 
+ <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3I3Mml5eWh0Zm40NGo4ODdhNjAyMTZncG0zNDBjZXpheWsydjljbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ahVlmHJzTMxygUxUou/giphy.gif" width="50"/> WELCOME 👋
+/>
 
 ![Banner de Miqueas](github-header-image.png)
 
