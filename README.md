@@ -16,6 +16,10 @@ Soy un apasionado desarrollador de backend con una fuerte inclinación hacia la 
 - **Proyectos Freelancer :** Repositorio donde se encuentran todos los proyectos realizados para terceros. [Ver más](https://github.com/Miqueas7/Repositorio-Freelancer)
 - **Software de Ventilación:** Repositorio que muestra el software para determinar la cobertura de oxigeno. [Ver más](https://github.com/Miqueas7/Cobertura_de_Oxigeno)
 - **Software de control de Hidrocarburos:** Repositorio que muestra el software para controlar hidrocarburos. [Ver más](https://github.com/Miqueas7/Cobertura_de_Oxigeno)
+- **API DB:** Repositorio que muestra la API para administrar base de datos en la nube. [Ver más](https://github.com/Miqueas7/API-DB)
+- **ADMINISTRADOR DB:** Repositorio que muestra un software para administrar base de datos en local. [Ver más](https://github.com/Miqueas7/API-DB)
+- **Landing Page Frutayapp:** Repositorio que muestra la Landing Page de la empresa Frutayapp. [Ver más](https://github.com/Miqueas7/frutayapp-landing-main)
+- **Landing Page Ayalzzich:** Repositorio que muestra la Landing Page de la empresa Ayalzzich. [Ver más](https://github.com/Miqueas7/ayalzzich-landing-main)
 
 
 ## 🛠️ TECNOLOGÍAS Y HERRAMIENTAS
