@@ -104,10 +104,11 @@ Soy un apasionado desarrollador de backend con una fuerte inclinación hacia la 
 ## 📈 ESTADÍSTICAS DE GITHUB
 ![Miqueas GitHub stats](https://github-readme-stats.vercel.app/api?username=Miqueas7&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miqueas7&layout=compact&theme=dark)
 
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Miqueas7&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) <img src="https://komarev.com/ghpvc/?username=Miqueas7&style=flat-square&color=blue" alt=""/>   ![GitHub Followers](https://img.shields.io/github/followers/Miqueas7?style=social)  ![GitHub Followers](https://img.shields.io/github/stars/Miqueas7?style=social)
 
 ## 📈 VIDEOS DE YOUTUBE
-<table style="width:100%">
+<table style="width:33%">
   <tr>
     <td>
       <a href="https://www.youtube.com/watch?v=CKB7C3x_NH4&t=17s&ab_channel=SergioAlejandroCampos-EXCELeINFO">
