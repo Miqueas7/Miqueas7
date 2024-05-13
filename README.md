@@ -7,7 +7,7 @@ Bienvenido a mi rincón en GitHub, donde la magia del backend, la ciencia de dat
 
 Soy un apasionado desarrollador de backend con una fuerte inclinación hacia la ciencia de datos y el desarrollo de soluciones de software eficientes y escalables. Con 3 de experiencia en la industria, he colaborado en proyectos que van desde aplicaciones empresariales hasta innovadoras startups.
 
-## 📫 Cómo encontrarme
+## 📫 CÓMO ENCONTRARME
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mqv/)  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://web.facebook.com/Miqueas.Quintanilla)  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]( https://w.app/Miqueas)   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/miqueasquintanilla/)  [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/MiCkYMattheus)  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Miqui7)  [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1010018201339445389)
 
