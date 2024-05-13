@@ -13,7 +13,7 @@ Soy un apasionado desarrollador de backend con una fuerte inclinación hacia la 
 
 ## 🌟 PROYECTOS DESTACADOS
 
-- **Proyecto X:** Sistema de recomendación basado en machine learning para un e-commerce. [Ver más](#)
+- **Proyectos Freelancer :** Repositorio donde se encuentran todos los proyectos realizados para terceros.. [Ver más](https://github.com/Miqueas7/Repositorio-Freelancer)
 - **Proyecto Y:** API RESTful para gestión de transacciones en tiempo real en un banco digital. [Ver más](#)
 - **Proyecto Z:** Plataforma de análisis de datos para predicción de tendencias de mercado. [Ver más](#)
 
