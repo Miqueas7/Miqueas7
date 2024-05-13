@@ -18,6 +18,7 @@ Soy un apasionado desarrollador de backend con una fuerte inclinación hacia la 
 - **Software de control de Hidrocarburos:** Repositorio que muestra el software para controlar hidrocarburos. [Ver más](https://github.com/Miqueas7/Cobertura_de_Oxigeno)
 - **API DB:** Repositorio que muestra la API para administrar base de datos en la nube. [Ver más](https://github.com/Miqueas7/API-DB)
 - **ADMINISTRADOR DB:** Repositorio que muestra un software para administrar base de datos en local. [Ver más](https://github.com/Miqueas7/API-DB)
+- **INSTALADOR PY:** Repositorio que muestra un Instalador de archivos para complementos de Excel y otros archivos.. [Ver más](https://github.com/Miqueas7/API-DB)
 - **Landing Page Frutayapp:** Repositorio que muestra la Landing Page de la empresa Frutayapp. [Ver más](https://github.com/Miqueas7/frutayapp-landing-main)
 - **Landing Page Ayalzzich:** Repositorio que muestra la Landing Page de la empresa Ayalzzich. [Ver más](https://github.com/Miqueas7/ayalzzich-landing-main)
 
