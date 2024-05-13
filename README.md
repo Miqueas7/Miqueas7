@@ -19,12 +19,12 @@ Soy un apasionado desarrollador de backend con una fuerte inclinación hacia la 
 
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer" style="display: flex; align-items: center; text-decoration: none; color: WHITE;">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++"/>
-<span style="margin-left: 10px; font-weight: bold; font-family: Consolas; font-size: 2.1em;">C++</span>
+<!-- <span style="margin-left: 10px; font-weight: bold; font-family: Consolas; font-size: 2.1em;">C++</span> -->
 </a> 
 
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer" style="display: flex; align-items: center; text-decoration: none; color: WHITE;">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" />
-<span style="margin-left: 10px; font-weight: bold; font-family: Consolas; font-size: 2.1em;">C#</span>
+<!-- <span style="margin-left: 10px; font-weight: bold; font-family: Consolas; font-size: 2.1em;">C#</span> -->
 </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="display: flex; align-items: center; text-decoration: none; color: WHITE;">
@@ -148,7 +148,7 @@ Soy un apasionado desarrollador de backend con una fuerte inclinación hacia la 
 <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
 
 </div>
-            
+
 - **Lenguajes de Programación:** Python 🐍, Java ☕, C# ⚔️
 - **Frameworks y Bibliotecas:** Django, Flask, .NET, Spring Boot
 - **Bases de Datos:** PostgreSQL, MongoDB, Redis
