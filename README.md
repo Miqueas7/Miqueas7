@@ -17,30 +17,16 @@ Soy un apasionado desarrollador de backend con una fuerte inclinación hacia la 
 
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
+![C#](https://img.shields.io/badge/C%23-%239146FF.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer" style="display: flex; align-items: center; text-decoration: none; color: WHITE;">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" />
-<!-- <span style="margin-left: 10px; font-weight: bold; font-family: Consolas; font-size: 2.1em;">C#</span> -->
-</a>
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="display: flex; align-items: center; text-decoration: none; color: WHITE;">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
-<!-- <span style="margin-left: 10px; font-weight: bold; font-family: Consolas; font-size: 2.1em;">JavaScript</span> -->
-</a>
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer" style="display: flex; align-items: center; text-decoration: none; color: WHITE;">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java"/>
-<!-- <span style="margin-left: 10px; font-weight: bold; font-family: Consolas; font-size: 2.1em;">Java</span> --> 
-</a>
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-<a href="https://www.php.net/" target="_blank" rel="noreferrer" style="display: flex; align-items: center; text-decoration: none; color: WHITE;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" />
-<!-- <span style="margin-left: 10px; font-weight: bold; font-family: Consolas; font-size: 2.1em;">PHP</span> -->
-</a>
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 
-<a href="https://www.python.org/" target="_blank" rel="noreferrer" style="display: flex; align-items: center; text-decoration: none; color: WHITE;">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python"/>
-<!-- <span style="margin-left: 10px; font-weight: bold; font-family: Consolas; font-size: 2.1em;">Python</span> -->
-</a>
 
 </div>
 
