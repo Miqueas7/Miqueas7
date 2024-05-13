@@ -99,12 +99,9 @@ Soy un apasionado desarrollador de backend con una fuerte inclinación hacia la 
 - **Proyecto Z:** Plataforma de análisis de datos para predicción de tendencias de mercado. [Ver más](#)
 
 ## 📈 Estadísticas de GitHub
-
-![Estadísticas de GitHub de Miqueas (https://github-readme-stats.vercel.app/api?username=[Miqueas7]&show_icons=true&theme=radical)
-
+![Miqueas' GitHub stats](https://github-readme-stats.vercel.app/api?username=Miqueas7&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miqueas7&layout=compact&theme=dark)
 
 ## 💡 Citas favoritas
-
 > "En la simplicidad está la última sofisticación." - Leonardo da Vinci
 
 > "Los datos son el nuevo petróleo." - Clive Humby
