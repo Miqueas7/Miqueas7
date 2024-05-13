@@ -101,7 +101,11 @@ Soy un apasionado desarrollador de backend con una fuerte inclinación hacia la 
 ## 📈 Estadísticas de GitHub
 ![Miqueas' GitHub stats](https://github-readme-stats.vercel.app/api?username=Miqueas7&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miqueas7&layout=compact&theme=dark)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Miqueas7&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## 💡 Citas favoritas
+> "El que no vive para servir, no sirve para vivir." - Madre Teresa de Calcuta
+
 > "En la simplicidad está la última sofisticación." - Leonardo da Vinci
 
 > "Los datos son el nuevo petróleo." - Clive Humby
