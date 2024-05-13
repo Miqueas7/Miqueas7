@@ -16,40 +16,25 @@ Soy un apasionado desarrollador de backend con una fuerte inclinación hacia la 
 ## BACKEND
 
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
 ![C#](https://img.shields.io/badge/C%23-%239146FF.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 
-
-</div>
-
 ## DATA SCIENCE
-<div align="left" style="display: flex; flex-wrap: wrap; align-items: center; gap: 10px;">
-
-<a href="https://www.python.org/" target="_blank" rel="noreferrer" style="display: flex; align-items: center; text-decoration: none; color: WHITE;">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python"/>
-<!-- <span style="margin-left: 10px; font-weight: bold; font-family: Consolas; font-size: 2.1em;">Python</span> -->
-</a>
-
-<a href="https://www.r-project.org/" target="_blank" rel="noreferrer" style="display: flex; align-items: center; text-decoration: none; color: WHITE;">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang"/>
-<!-- <span style="margin-left: 10px; font-weight: bold; font-family: Consolas; font-size: 2.1em;">R</span> -->
-</a>
-
-<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-%23217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power_Query-%23316192.svg?style=for-the-badge&logo=powerbi&logoColor=white)
+![M](https://img.shields.io/badge/M-%2300A4E4.svg?style=for-the-badge&logo=Power%20BI&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Amazon Web Services](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" width="36" height="36" alt="Amazon Web Services" /></a>
 
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-
-</div>
 
 ## API
 <div align="left" style="display: flex; flex-wrap: wrap; align-items: center; gap: 10px;">
