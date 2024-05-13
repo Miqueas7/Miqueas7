@@ -19,8 +19,9 @@ De profesión soy ingeniero de minas con más de 5 años de experiencia y técni
 - **Software de Ventilación:** Repositorio que muestra el software para determinar la cobertura de oxigeno. [Ver más](https://github.com/Miqueas7/Cobertura_de_Oxigeno)
 - **Software de control de Hidrocarburos:** Repositorio que muestra el software para controlar hidrocarburos. [Ver más](https://github.com/Miqueas7/Cobertura_de_Oxigeno)
 - **API DB:** Repositorio que muestra la API para administrar base de datos en la nube. [Ver más](https://github.com/Miqueas7/API-DB)
-- **Administrador DB:** Repositorio que muestra un software para administrar base de datos en local. [Ver más](https://github.com/Miqueas7/API-DB)
-- **Instalador PY:** Repositorio que muestra un Instalador de archivos para complementos de Excel y otros archivos.. [Ver más](https://github.com/Miqueas7/API-DB)
+- **Administrador DB:** Repositorio que muestra un software para administrar base de datos en local. [Ver más](https://github.com/Miqueas7/Administrador_Bases_datos)
+- **Instalador PY:** Repositorio que muestra un Instalador de archivos para complementos de Excel y otros archivos. [Ver más](https://github.com/Miqueas7/Instalador-Py)
+- **Software Control Energia Solar:** Repositorio que muestra Software para el control de energia solar en el Perú. [Ver más](https://github.com/Miqueas7/Solar_Pro)
 - **Landing Page Frutayapp:** Repositorio que muestra la Landing Page de la empresa Frutayapp. [Ver más](https://github.com/Miqueas7/frutayapp-landing-main)
 - **Landing Page Ayalzzich:** Repositorio que muestra la Landing Page de la empresa Ayalzzich. [Ver más](https://github.com/Miqueas7/ayalzzich-landing-main)
 
