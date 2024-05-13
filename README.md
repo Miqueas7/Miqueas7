@@ -3,13 +3,19 @@
 
 Bienvenido a mi rincón en GitHub, donde la magia del backend, la ciencia de datos y el desarrollo de software se encuentran! 🚀
 
-##  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3I3Mml5eWh0Zm40NGo4ODdhNjAyMTZncG0zNDBjZXpheWsydjljbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ahVlmHJzTMxygUxUou/giphy.gif" width="30"/>  Sobre mí
+##  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3I3Mml5eWh0Zm40NGo4ODdhNjAyMTZncG0zNDBjZXpheWsydjljbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ahVlmHJzTMxygUxUou/giphy.gif" width="30"/>  SOBRE MÍ
 
 Soy un apasionado desarrollador de backend con una fuerte inclinación hacia la ciencia de datos y el desarrollo de soluciones de software eficientes y escalables. Con 3 de experiencia en la industria, he colaborado en proyectos que van desde aplicaciones empresariales hasta innovadoras startups.
 
 ## 📫 CÓMO ENCONTRARME
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mqv/)  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://web.facebook.com/Miqueas.Quintanilla)  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]( https://w.app/Miqueas)   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/miqueasquintanilla/)  [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/MiCkYMattheus)  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Miqui7)  [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1010018201339445389)
+
+## 🌟 PROYECTOS DESTACADOS
+
+- **Proyecto X:** Sistema de recomendación basado en machine learning para un e-commerce. [Ver más](#)
+- **Proyecto Y:** API RESTful para gestión de transacciones en tiempo real en un banco digital. [Ver más](#)
+- **Proyecto Z:** Plataforma de análisis de datos para predicción de tendencias de mercado. [Ver más](#)
 
 ## 🛠️ TECNOLOGÍAS Y HERRAMIENTAS
 
@@ -92,22 +98,17 @@ Soy un apasionado desarrollador de backend con una fuerte inclinación hacia la 
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
 
-## 🌟 Proyectos Destacados
 
-- **Proyecto X:** Sistema de recomendación basado en machine learning para un e-commerce. [Ver más](#)
-- **Proyecto Y:** API RESTful para gestión de transacciones en tiempo real en un banco digital. [Ver más](#)
-- **Proyecto Z:** Plataforma de análisis de datos para predicción de tendencias de mercado. [Ver más](#)
-
-## 📈 Estadísticas de GitHub
+## 📈 ESTADÍSTICAS DE GITHUB
 ![Miqueas' GitHub stats](https://github-readme-stats.vercel.app/api?username=Miqueas7&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miqueas7&layout=compact&theme=dark)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Miqueas7&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 💡 Citas favoritas
+## 💡 CITAS FAVORITAS
 > "El que no vive para servir, no sirve para vivir." - Madre Teresa de Calcuta
 
 > "En la simplicidad está la última sofisticación." - Leonardo da Vinci
 
 > "Los datos son el nuevo petróleo." - Clive Humby
 
-¡Gracias por visitar mi perfil y espero que encuentres inspiración e interés en mis proyectos!
+## ¡Gracias por visitar mi perfil y espero que encuentres inspiración e interés en mis proyectos!
