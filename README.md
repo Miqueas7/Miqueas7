@@ -102,18 +102,13 @@ Soy un apasionado desarrollador de backend con una fuerte inclinación hacia la 
 
 
 ## 📈 ESTADÍSTICAS DE GITHUB
-![Miqueas' GitHub stats](https://github-readme-stats.vercel.app/api?username=Miqueas7&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miqueas7&layout=compact&theme=dark)
+![Miqueas GitHub stats](https://github-readme-stats.vercel.app/api?username=Miqueas7&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miqueas7&layout=compact&theme=dark)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Miqueas7&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-<img src="https://komarev.com/ghpvc/?username=Miqueas7&style=flat-square&color=blue" alt=""/>
-
-![GitHub Followers](https://img.shields.io/github/followers/Miqueas7?style=social)
-![GitHub Followers](https://img.shields.io/github/stars/Miqueas7?style=social)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Miqueas7&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) <img src="https://komarev.com/ghpvc/?username=Miqueas7&style=flat-square&color=blue" alt=""/>   ![GitHub Followers](https://img.shields.io/github/followers/Miqueas7?style=social)  ![GitHub Followers](https://img.shields.io/github/stars/Miqueas7?style=social)
 
 ## 📈 VIDEOS DE YOUTUBE
 <!-- BEGIN YOUTUBE-CARDS -->
-[![¿Aprender a programar en el 2024? Escucha estos consejos antes 📢
+[![INTEGRANDO AUTOCAD CON EXCEL ft. Miqueas Quintanilla - WORKSHOPS #27 📢
 ](https://ytcards.demolab.com/?id=s3L6MhtcK2A&title=¿Aprender+a+programar+en+el+2024?+Escucha+estos+consejos+antes&lang=en&timestamp=1700427119&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=<video duration in seconds> "<video title>")](https://www.youtube.com/watch?v=CKB7C3x_NH4&t=17s&ab_channel=SergioAlejandroCampos-EXCELeINFO)
 <!-- END YOUTUBE-CARDS -->
 
