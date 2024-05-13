@@ -29,21 +29,21 @@ Soy un apasionado desarrollador de backend con una fuerte inclinación hacia la 
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="display: flex; align-items: center; text-decoration: none; color: WHITE;">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
-<span style="margin-left: 10px; font-weight: bold; font-family: Consolas; font-size: 2.1em;">JavaScript</span>
+<!-- <span style="margin-left: 10px; font-weight: bold; font-family: Consolas; font-size: 2.1em;">JavaScript</span> -->
 </a>
 
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer" style="display: flex; align-items: center; text-decoration: none; color: WHITE;">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java"/>
-<span style="margin-left: 10px; font-weight: bold; font-family: Consolas; font-size: 2.1em;">Java</span>
+<!-- <span style="margin-left: 10px; font-weight: bold; font-family: Consolas; font-size: 2.1em;">Java</span> --> 
 </a>
 
 <a href="https://www.php.net/" target="_blank" rel="noreferrer" style="display: flex; align-items: center; text-decoration: none; color: WHITE;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" />
-<span style="margin-left: 10px; font-weight: bold; font-family: Consolas; font-size: 2.1em;">PHP</span>
+<!-- <span style="margin-left: 10px; font-weight: bold; font-family: Consolas; font-size: 2.1em;">PHP</span> -->
 </a>
 
 <a href="https://www.python.org/" target="_blank" rel="noreferrer" style="display: flex; align-items: center; text-decoration: none; color: WHITE;">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python"/>
-<span style="margin-left: 10px; font-weight: bold; font-family: Consolas; font-size: 2.1em;">Python</span>
+<!-- <span style="margin-left: 10px; font-weight: bold; font-family: Consolas; font-size: 2.1em;">Python</span> -->
 </a>
 
 </div>
@@ -53,12 +53,12 @@ Soy un apasionado desarrollador de backend con una fuerte inclinación hacia la 
 
 <a href="https://www.python.org/" target="_blank" rel="noreferrer" style="display: flex; align-items: center; text-decoration: none; color: WHITE;">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python"/>
-<span style="margin-left: 10px; font-weight: bold; font-family: Consolas; font-size: 2.1em;">Python</span>
+<!-- <span style="margin-left: 10px; font-weight: bold; font-family: Consolas; font-size: 2.1em;">Python</span> -->
 </a>
 
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer" style="display: flex; align-items: center; text-decoration: none; color: WHITE;">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang"/>
-<span style="margin-left: 10px; font-weight: bold; font-family: Consolas; font-size: 2.1em;">R</span>
+<!-- <span style="margin-left: 10px; font-weight: bold; font-family: Consolas; font-size: 2.1em;">R</span> -->
 </a>
 
 <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
