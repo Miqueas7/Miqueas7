@@ -9,7 +9,8 @@ Soy un apasionado desarrollador de backend con una fuerte inclinación hacia la 
 
 ## 📫 Cómo encontrarme
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mqv/)  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://web.facebook.com/Miqueas.Quintanilla)  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]( https://w.app/Miqueas)   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/miqueasquintanilla/)  [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/MiCkYMattheus)  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](t.me/Miqui7)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mqv/)  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://web.facebook.com/Miqueas.Quintanilla)  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]( https://w.app/Miqueas)   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/miqueasquintanilla/)  [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/MiCkYMattheus)  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Miqui7)  [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1010018201339445389)
+
 
 ## 🛠️ Tecnologías y Herramientas
 
@@ -31,11 +32,10 @@ Soy un apasionado desarrollador de backend con una fuerte inclinación hacia la 
 ![Estadísticas de GitHub de Miqueas (https://github-readme-stats.vercel.app/api?username=[Miqueas7]&show_icons=true&theme=radical)
 
 
-
-
 ## 💡 Citas favoritas
 
 > "En la simplicidad está la última sofisticación." - Leonardo da Vinci
+
 > "Los datos son el nuevo petróleo." - Clive Humby
 
 ¡Gracias por visitar mi perfil y espero que encuentres inspiración e interés en mis proyectos!
