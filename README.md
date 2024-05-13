@@ -111,7 +111,7 @@ Soy un apasionado desarrollador de backend con una fuerte inclinación hacia la 
   <tr>
     <td>
       <a href="https://www.youtube.com/watch?v=CKB7C3x_NH4&t=17s&ab_channel=SergioAlejandroCampos-EXCELeINFO">
-        <img src="http://i3.ytimg.com/vi/Kp4Mvapo5kc/maxresdefault.jpg" alt="Video Thumbnail">
+        <img src="Workshop.jpg" alt="Video Thumbnail">
       </a>
     </td>
   </tr>
