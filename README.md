@@ -107,11 +107,15 @@ Soy un apasionado desarrollador de backend con una fuerte inclinación hacia la 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Miqueas7&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) <img src="https://komarev.com/ghpvc/?username=Miqueas7&style=flat-square&color=blue" alt=""/>   ![GitHub Followers](https://img.shields.io/github/followers/Miqueas7?style=social)  ![GitHub Followers](https://img.shields.io/github/stars/Miqueas7?style=social)
 
 ## 📈 VIDEOS DE YOUTUBE
-<!-- BEGIN YOUTUBE-CARDS -->
-[![INTEGRANDO AUTOCAD CON EXCEL ft. Miqueas Quintanilla - WORKSHOPS #27 📢
-](https://ytcards.demolab.com/?id=s3L6MhtcK2A&title=¿Aprender+a+programar+en+el+2024?+Escucha+estos+consejos+antes&lang=en&timestamp=1700427119&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=<video duration in seconds> "<video title>")](https://www.youtube.com/watch?v=CKB7C3x_NH4&t=17s&ab_channel=SergioAlejandroCampos-EXCELeINFO)
-<!-- END YOUTUBE-CARDS -->
-
+<table style="width:100%">
+<tr>
+    <td>
+        <a href="https://www.youtube.com/watch?v=CKB7C3x_NH4&t=17s&ab_channel=SergioAlejandroCampos-EXCELeINFO">
+        <!-- <img src="http://i3.ytimg.com/vi/Kp4Mvapo5kc/maxresdefault.jpg"> -->
+        </a>
+    </td>
+</tr>
+</table>
 ## 💡 CITAS FAVORITAS
 > "El que no vive para servir, no sirve para vivir." - Madre Teresa de Calcuta
 
