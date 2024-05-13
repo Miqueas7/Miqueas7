@@ -7,6 +7,8 @@ Bienvenido a mi rincón en GitHub, donde la magia del backend, la ciencia de dat
 
 Soy un apasionado desarrollador de backend con una fuerte inclinación hacia la ciencia de datos y el desarrollo de soluciones de software eficientes y escalables. Con 3 de experiencia en la industria, he colaborado en proyectos que van desde aplicaciones empresariales hasta innovadoras startups.
 
+De profesión soy ingeniero de minas con más de 5 años de experiencia y técnico informático, estoy en el camino de unificar mi vocación y pasión en búsqueda de mejores soluciones.
+
 ## 📫 CÓMO ENCONTRARME
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mqv/)  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://web.facebook.com/Miqueas.Quintanilla)  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]( https://w.app/Miqueas)   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/miqueasquintanilla/)  [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/MiCkYMattheus)  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Miqui7)  [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1010018201339445389)
@@ -17,11 +19,10 @@ Soy un apasionado desarrollador de backend con una fuerte inclinación hacia la 
 - **Software de Ventilación:** Repositorio que muestra el software para determinar la cobertura de oxigeno. [Ver más](https://github.com/Miqueas7/Cobertura_de_Oxigeno)
 - **Software de control de Hidrocarburos:** Repositorio que muestra el software para controlar hidrocarburos. [Ver más](https://github.com/Miqueas7/Cobertura_de_Oxigeno)
 - **API DB:** Repositorio que muestra la API para administrar base de datos en la nube. [Ver más](https://github.com/Miqueas7/API-DB)
-- **ADMINISTRADOR DB:** Repositorio que muestra un software para administrar base de datos en local. [Ver más](https://github.com/Miqueas7/API-DB)
-- **INSTALADOR PY:** Repositorio que muestra un Instalador de archivos para complementos de Excel y otros archivos.. [Ver más](https://github.com/Miqueas7/API-DB)
+- **Administrador DB:** Repositorio que muestra un software para administrar base de datos en local. [Ver más](https://github.com/Miqueas7/API-DB)
+- **Instalador PY:** Repositorio que muestra un Instalador de archivos para complementos de Excel y otros archivos.. [Ver más](https://github.com/Miqueas7/API-DB)
 - **Landing Page Frutayapp:** Repositorio que muestra la Landing Page de la empresa Frutayapp. [Ver más](https://github.com/Miqueas7/frutayapp-landing-main)
 - **Landing Page Ayalzzich:** Repositorio que muestra la Landing Page de la empresa Ayalzzich. [Ver más](https://github.com/Miqueas7/ayalzzich-landing-main)
-
 
 ## 🛠️ TECNOLOGÍAS Y HERRAMIENTAS
 
@@ -123,7 +124,6 @@ Soy un apasionado desarrollador de backend con una fuerte inclinación hacia la 
     </td>
   </tr>
 </table>
-
 
 ## 💡 CITAS FAVORITAS
 > "El que no vive para servir, no sirve para vivir." - Madre Teresa de Calcuta
