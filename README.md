@@ -106,7 +106,10 @@ Soy un apasionado desarrollador de backend con una fuerte inclinación hacia la 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Miqueas7&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<img src="https://komarev.com/ghpvc/?username=condorcoders&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=Miqueas7&style=flat-square&color=blue" alt=""/>
+
+![GitHub Followers](https://img.shields.io/github/followers/Miqueas7?style=social)
+![GitHub Followers](https://img.shields.io/github/stars/Miqueas7?style=social)
 
 ## 📈 VIDEOS DE YOUTUBE
 <!-- BEGIN YOUTUBE-CARDS -->
