@@ -22,7 +22,7 @@ Soy un apasionado desarrollador de backend con una fuerte inclinación hacia la 
 <span style="margin-left: 10px; font-weight: bold; font-family: Consolas; font-size: 2.1em;">C++</span>
 </a>
 
-<hr style="height: 1px; border: none; background-color: #606060;">
+<hr style="border: none; background-color: #606060;">
 
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
 
