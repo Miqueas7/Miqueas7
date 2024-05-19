@@ -1,13 +1,13 @@
 
 ![Banner de Miqueas](github-header.png)
 
-Bienvenido a mi rincón en GitHub, donde la magia del backend, la ciencia de datos y el desarrollo de software se encuentran! 🚀
+Bienvenido a mi rincón en GitHub, donde la magia de la ciencia de datos, backend y el desarrollo de software se encuentran! 🚀
 
 ##  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3I3Mml5eWh0Zm40NGo4ODdhNjAyMTZncG0zNDBjZXpheWsydjljbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ahVlmHJzTMxygUxUou/giphy.gif" width="30"/>  SOBRE MÍ
 
-Soy un apasionado desarrollador de backend con una fuerte inclinación hacia la ciencia de datos y el desarrollo de soluciones de software eficientes y escalables. Con 3 de experiencia en la industria, he colaborado en proyectos que van desde aplicaciones empresariales hasta innovadoras startups.
+Soy un apasionado desarrollador con una fuerte inclinación hacia la ciencia de datos y el desarrollo de soluciones de software eficientes y escalables. Con 3 de experiencia en la industria, he colaborado en proyectos que van desde aplicaciones empresariales hasta innovadoras startups.
 
-De profesión soy ingeniero de minas con más de 5 años de experiencia y técnico informático, estoy en el camino de unificar mi vocación y pasión en búsqueda de mejores soluciones.
+De profesión soy Ingeniero de Minas con más de 5 años de experiencia y técnico informático, estoy en el camino de unificar mi vocación y pasión en búsqueda de mejores soluciones.
 
 ## 📫 CÓMO ENCONTRARME
 
