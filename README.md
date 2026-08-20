@@ -5,25 +5,63 @@ Bienvenido a mi rincón en GitHub, donde la magia de la ciencia de datos, backen
 
 ##  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3I3Mml5eWh0Zm40NGo4ODdhNjAyMTZncG0zNDBjZXpheWsydjljbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ahVlmHJzTMxygUxUou/giphy.gif" width="30"/>  SOBRE MÍ
 
-Soy un apasionado desarrollador con una fuerte inclinación hacia la ciencia de datos y el desarrollo de soluciones de software eficientes y escalables. Con 3 años de experiencia en la industria, he colaborado en proyectos que van desde aplicaciones empresariales hasta innovadoras startups.
+Ingeniero de Minas (UNSCH) y Magíster en Ingeniería de Software (UNMSM). Llevo más de 10 años en operaciones mineras peruanas y construyo lo que falta entre la data de una operación y la decisión que alguien tiene que tomar con ella: modelos de machine learning que llegan a producción, gemelos digitales y plataformas de gestión.
 
-De profesión soy Ingeniero de Minas con más de 5 años de experiencia y técnico informático, estoy en el camino de unificar mi vocación y pasión en búsqueda de mejores soluciones.
+Trabajo bajo acuerdos de confidencialidad, así que los proyectos los presento por su **método y sus resultados, no por el nombre del cliente**. Están publicados como model cards —con sus métricas, su ETL, su arquitectura y sus hallazgos— en **[miqueas.dev](https://miqueas.dev)**.
+
+Docente de analítica y machine learning aplicados a minería en GEOMINA, Escuela Global y CODE@UNI. Profesor asistente en la UNMSM y Mentor del Programa de Mentoring del IIMP.
 
 ## 📫 CÓMO ENCONTRARME
 
+🌐 **[miqueas.dev](https://miqueas.dev)** — portafolio con las model cards y sus métricas
+
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mqv/)  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://web.facebook.com/Miqueas.Quintanilla)  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]( https://w.app/Miqueas)   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/miqueasquintanilla/)  [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/MiCkYMattheus)  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Miqui7)  [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1010018201339445389)
+
+## 🌬️ VENTPY — LIBRERÍA OPEN SOURCE DE VENTILACIÓN DE MINAS
+
+```bash
+pip install ventpy
+```
+
+Durante años vi el mismo cálculo vivir en una hoja de Excel: rehecha desde cero por quien la necesitara, con las constantes normativas escritas a mano, sin tests y sin una fuente común. Y no es un número trivial — si ventilas de menos una labor, hay gente respirando gases de diésel durante todo un turno.
+
+Busqué una implementación abierta y no existía. Así que la escribí.
+
+| | |
+|---|---|
+| **Demanda de aire** | personal, flota diésel, dilución post-voladura, correcciones por altitud, fugas |
+| **Redes** | topología, mallas automáticas, balance de Hardy-Cross con convergencia auditable |
+| **Ventiladores** | curvas con corrección por densidad, punto de operación, detección de zona de stall |
+| **Y además** | resistencias de Atkinson, ductos, polvo respirable, balance térmico, cobertura |
+| **Normas** | Perú (DS 024-2016-EM) y Chile (DS 132) — **cada constante cita su artículo** |
+
+Núcleo en C++20 con bindings de Python. 345 tests, incluyendo *property-based testing*, corriendo en Linux, macOS y Windows con sanitizers y umbral de cobertura.
+
+Si le pides un gas que la norma no regula, **falla con un error** en vez de devolver un valor por defecto. En una librería de la que depende cuánto aire respira alguien bajo tierra, un default silencioso es peligroso.
+
+**[Documentación](https://miqueas.dev/ventpy)** · **[PyPI](https://pypi.org/project/ventpy/)** · **[Repositorio](https://github.com/Miqueas7/VentPy)**
+
+> **Faltan Colombia y México, y no necesitas saber programar para aportar.** Abre un issue con los valores de tu normativa y el artículo del que salen. Eso ya es la mitad del trabajo — el código lo pongo yo.
 
 ## 🌟 PROYECTOS DESTACADOS
 
-- **Proyectos Freelancer :** Repositorio donde se encuentran todos los proyectos realizados para terceros. [Ver más](https://github.com/Miqueas7/Repositorio-Freelancer)
-- **Software de Ventilación:** Repositorio que muestra el software para determinar la cobertura de oxigeno. [Ver más](https://github.com/Miqueas7/Cobertura_de_Oxigeno)
-- **Software de control de Hidrocarburos:** Repositorio que muestra el software para controlar hidrocarburos. [Ver más](https://github.com/Miqueas7/Cobertura_de_Oxigeno)
-- **API DB:** Repositorio que muestra la API para administrar base de datos en la nube. [Ver más](https://github.com/Miqueas7/API-DB)
-- **Administrador DB:** Repositorio que muestra un software para administrar base de datos en local. [Ver más](https://github.com/Miqueas7/Administrador_Bases_datos)
-- **Instalador PY:** Repositorio que muestra un Instalador de archivos para complementos de Excel y otros archivos. [Ver más](https://github.com/Miqueas7/Instalador-Py)
-- **Software Control Energia Solar:** Repositorio que muestra Software para el control de energia solar en el Perú. [Ver más](https://github.com/Miqueas7/Solar_Pro)
-- **Landing Page Frutayapp:** Repositorio que muestra la Landing Page de la empresa Frutayapp. [Ver más](https://github.com/Miqueas7/frutayapp-landing-main)
-- **Landing Page Ayalzzich:** Repositorio que muestra la Landing Page de la empresa Ayalzzich. [Ver más](https://github.com/Miqueas7/ayalzzich-landing-main)
+**Ingeniería y minería**
+
+- **[Cobertura de Oxígeno](https://github.com/Miqueas7/Cobertura_de_Oxigeno)** — Software para determinar la cobertura de oxígeno. El antecedente directo de VentPy.
+- **[Control de Hidrocarburos](https://github.com/Miqueas7/Repositorio-Freelancer)** — Software para el control de hidrocarburos.
+- **[Solar Pro](https://github.com/Miqueas7/Solar_Pro)** — Software para el control de energía solar en el Perú.
+
+**Herramientas y datos**
+
+- **[API DB](https://github.com/Miqueas7/API-DB)** — API para administrar bases de datos en la nube.
+- **[Administrador de Bases de Datos](https://github.com/Miqueas7/Administrador_Bases_datos)** — Administración de bases de datos en local, configurando puerto y credenciales.
+- **[Instalador PY](https://github.com/Miqueas7/Instalador-Py)** — Instalador de complementos de Excel y otros archivos.
+
+**Trabajos para terceros**
+
+- **[Repositorio Freelancer](https://github.com/Miqueas7/Repositorio-Freelancer)** — Proyectos realizados para clientes.
+- **[Landing Frutayapp](https://github.com/Miqueas7/frutayapp-landing-main)** · **[Landing Ayalzzich](https://github.com/Miqueas7/ayalzzich-landing-main)**
 
 ## 🛠️ TECNOLOGÍAS Y HERRAMIENTAS
 
